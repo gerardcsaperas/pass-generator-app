@@ -1,0 +1,27 @@
+div#main-container {
+	margin-top: 2rem;
+}
+
+div#form-box {
+	padding: 1rem;
+}
+
+h1 {
+	font-size: 2rem;
+	text-align: center;
+	font-weight: bold;
+}
+
+input,
+button {
+	margin-bottom: 1rem;
+}
+
+div#button-box {
+	text-align: center;
+}
+
+button {
+	margin-top: 1rem;
+	width: 100%;
+}
